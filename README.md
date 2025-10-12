@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an AI counselling chatbot project<br>👯 I’m looking to collaborate on web development projects<br>🌱 I’m currently learning Full-stack development<br>💬 Ask me about web development or Techstack<br>⚡ Fun fact I once debugged an issue at 2 AM only to realize the problem was a missing semicolon. 🫠
+🔭 I’m currently working on an ML project<br>👯 I’m looking to collaborate on web development projects<br>🌱 I’m currently learning Full-stack development<br>💬 Ask me about web development or Techstack<br>⚡ Fun fact I once debugged an issue at 2 AM only to realize the problem was a missing semicolon. 🫠
 
 
 ## 🌐 Socials:
