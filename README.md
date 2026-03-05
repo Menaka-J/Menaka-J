@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Deep learning project<br>👯 I’m looking to collaborate on web development projects<br>🌱 I’m currently learning Springboot in Java<br>💬 Ask me about Full stack Web development<br>⚡ Fun fact I once debugged an issue at 2 AM only to realize the problem was a missing semicolon 😅!
+🔭 I’m currently working on a Deep learning project<br>👯 I’m looking to collaborate on web development projects<br>🌱 I’m currently learning Springboot in Java<br>💬 Ask me about Full stack Web development<br>⚡ Fun fact I once debugged an issue at 2 AM only to realize the problem was a missing semicolon 😅!!
 
 
 ## 🌐 Socials:
